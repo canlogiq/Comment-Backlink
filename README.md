@@ -1,5 +1,7 @@
 # Backlink PRO - Unlimited Comment Backlinks
 
+<img src="https://s3.envato.com/files/634386941/1.png" alt="Backlink PRO Screenshot" width="850">
+
 ## How Does It Work?
 Backlink PRO bot is a professional tool designed for creating backlinks and advertising. With this software, you can automatically send comments to WordPress sites, enabling you to generate thousands of backlinks to enhance your website's SEO and marketing.
 
